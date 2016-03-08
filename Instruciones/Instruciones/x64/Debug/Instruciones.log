@@ -1,3 +1,0 @@
-﻿  Main.cpp
-Main.obj : error LNK2019: unresolved external symbol TestFunction referenced in function main
-C:\Users\vic\Documents\Visual Studio 2015\Projects\ASM_x64\Instruciones\x64\Debug\Instruciones.exe : fatal error LNK1120: 1 unresolved externals
